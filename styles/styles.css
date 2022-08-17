@@ -1,0 +1,21 @@
+.heading {
+    color: rgb(123, 134, 215)
+}
+
+body {
+    align-self: center; 
+    color:rgb(97, 194, 194);
+    background-color: rgb(21, 34, 52);
+    font-family: "Roboto Mono", "consolas", "monospace";
+    max-width: 1000px;
+    margin: auto
+}
+
+a {
+    color:rgb(42, 152, 208)
+}
+
+.recipe-image {
+    height: auto;
+    max-width: 1000px
+}
